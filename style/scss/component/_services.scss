@@ -1,0 +1,65 @@
+#Services {
+	background-color: #F6F7FB;
+	padding: 7% 0;
+}
+.services-heading {
+	text-align: center;
+}
+.first-col {
+	margin-top: 7rem;
+	margin-bottom: 10rem ;
+}
+.image-box-1, .image-box-2,
+.image-box-3, .image-box-4, .image-box-5,
+.image-box-6, .image-box-7, .image-box-8 {
+	background-color: #FFFFFF;
+	border-radius: 50%;
+	width: 6rem;
+	padding: 1.5rem;
+	margin: 0 auto;
+	// position: absolute;
+	// top: 1rem;
+
+}
+.box-1, .box-2 {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+    box-shadow: 0 10px 40px rgba(0,0,0,.1);
+    padding: 0 1.5rem;
+    min-height: 22rem;
+    width: 100%;
+    // position:  relative;
+    h2 {
+		margin-top: 3rem;
+    }
+    p {
+		margin-top: 2rem;
+    }
+    button {
+    	margin-top: 20px;
+    }
+}
+
+.secondary-col {
+	margin-bottom: 10rem ;
+}
+.box-3, .box-4, .box-5 {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+    box-shadow: 0 10px 40px rgba(0,0,0,.1);
+    padding: 0 1.5rem;
+    min-height: 22rem;
+    width: 100%;
+}
+
+.third-col {
+	margin-bottom: 10rem ;
+}
+.box-6, .box-7, .box-8 {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+    box-shadow: 0 10px 40px rgba(0,0,0,.1);
+    padding: 0 1.5rem;
+    min-height: 22rem;
+    width: 100%;
+}

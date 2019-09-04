@@ -1,0 +1,49 @@
+#contact-us {
+	background-color: #F7F7F7;
+}
+.get-touch {
+	background-image: url(../../images/bg4.jpg);
+	background-repeat: no-repeat;
+	height: 33rem;
+	width: 100%;
+	color: #FFF;
+	padding: 5rem 10%;
+}
+.get-touch-heading {
+	h6 {
+		color: #FFBF00;
+		text-transform: uppercase;
+	}
+}
+.hr {
+	border-bottom: 2px solid #FFBF00;
+	width: 30%;
+	height: 0;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+.info-icons {
+	color: #FFBF00;
+	font-size: 1.4rem;
+}
+.input-form {
+	background-color: #FFF;
+	width: 100%;
+	height: 100%;
+	padding: 1rem 1.3rem 0 1.3rem;
+}
+.input {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    padding: 30px 15px 30px 40px;
+    border: 0;
+    border-radius: 5px;
+    margin: 1rem 0;
+    background-color: #fafafa;
+}
+.btn-form {
+	border-radius: 30px;
+	padding: .8rem 1.5rem;
+	margin-top: 3rem;
+	color: #FFF;
+}

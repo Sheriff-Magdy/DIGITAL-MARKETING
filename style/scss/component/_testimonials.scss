@@ -1,0 +1,20 @@
+#testimonials {
+	background-image: linear-gradient(rgba(#000, .9)), url(../../images/testimonial-bg.jpg);
+	background-size: cover;
+	padding: 10rem 0;
+	color: #FFF;
+}
+.testimonials-heading {
+	text-align: center;
+	margin-bottom: 4rem;
+}
+.item-1 {
+	width:65%;
+	margin: 0 auto;
+}
+.icon{
+    color: #fbc125;
+    font-size: 40px;
+    line-height: 1;
+    font-family: FontAwesome;
+}

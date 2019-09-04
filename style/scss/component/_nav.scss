@@ -1,0 +1,29 @@
+body {
+	padding: 0 1rem;
+	margin: 0 auto;
+}
+#head {
+	background-image: url(../../images/home-slider-13.jpg);
+	background-size: cover;
+}
+.navigationBar {
+	padding: 0 8% 5px 8%;
+}
+.items-ui {
+	font-weight: bold;
+}
+.items-li {
+	margin-right: 2rem;
+}
+.hero {
+	margin-top: 10rem;
+	height: 70vh;
+	padding-top: 5rem;
+	h1 {
+		color: #034577;
+		letter-spacing: -0.5px;
+		line-height: 55px;
+		text-transform: uppercase;
+		font-family: 'Droid Sans', sans-serif;
+	}
+}

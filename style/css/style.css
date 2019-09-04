@@ -1,0 +1,215 @@
+body {
+  padding: 0 1rem;
+  margin: 0 auto; }
+
+#head {
+  background-image: url(../../images/home-slider-13.jpg);
+  background-size: cover; }
+
+.navigationBar {
+  padding: 0 8% 5px 8%; }
+
+.items-ui {
+  font-weight: bold; }
+
+.items-li {
+  margin-right: 2rem; }
+
+.hero {
+  margin-top: 10rem;
+  height: 70vh;
+  padding-top: 5rem; }
+  .hero h1 {
+    color: #034577;
+    letter-spacing: -0.5px;
+    line-height: 55px;
+    text-transform: uppercase;
+    font-family: 'Droid Sans', sans-serif; }
+
+#about {
+  padding: 5% 0;
+  background-image: url(../../images/services_bg.jpg);
+  background-size: cover; }
+
+.about-us {
+  margin-top: 7rem;
+  padding-bottom: 5rem; }
+
+.about-heading {
+  text-align: center; }
+
+.about-detail {
+  width: 36rem; }
+
+.about-img {
+  width: 30rem; }
+  .about-img img {
+    width: 100%; }
+
+#Services {
+  background-color: #F6F7FB;
+  padding: 7% 0; }
+
+.services-heading {
+  text-align: center; }
+
+.first-col {
+  margin-top: 7rem;
+  margin-bottom: 10rem; }
+
+.image-box-1, .image-box-2,
+.image-box-3, .image-box-4, .image-box-5,
+.image-box-6, .image-box-7, .image-box-8 {
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  width: 6rem;
+  padding: 1.5rem;
+  margin: 0 auto; }
+
+.box-1, .box-2 {
+  border: 1px solid #CCCCCC;
+  text-align: center;
+  -webkit-box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  padding: 0 1.5rem;
+  min-height: 22rem;
+  width: 100%; }
+  .box-1 h2, .box-2 h2 {
+    margin-top: 3rem; }
+  .box-1 p, .box-2 p {
+    margin-top: 2rem; }
+  .box-1 button, .box-2 button {
+    margin-top: 20px; }
+
+.secondary-col {
+  margin-bottom: 10rem; }
+
+.box-3, .box-4, .box-5 {
+  border: 1px solid #CCCCCC;
+  text-align: center;
+  -webkit-box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  padding: 0 1.5rem;
+  min-height: 22rem;
+  width: 100%; }
+
+.third-col {
+  margin-bottom: 10rem; }
+
+.box-6, .box-7, .box-8 {
+  border: 1px solid #CCCCCC;
+  text-align: center;
+  -webkit-box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  padding: 0 1.5rem;
+  min-height: 22rem;
+  width: 100%; }
+
+#testimonials {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.9))), url(../../images/testimonial-bg.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9)), url(../../images/testimonial-bg.jpg);
+  background-size: cover;
+  padding: 10rem 0;
+  color: #FFF; }
+
+.testimonials-heading {
+  text-align: center;
+  margin-bottom: 4rem; }
+
+.item-1 {
+  width: 65%;
+  margin: 0 auto; }
+
+.icon {
+  color: #fbc125;
+  font-size: 40px;
+  line-height: 1;
+  font-family: FontAwesome; }
+
+#card {
+  background-color: #F6F7FB;
+  padding: 7% 0; }
+
+.card-heading {
+  text-align: center;
+  margin-bottom: 3rem; }
+
+.cards {
+  border: 1px solid #CCCCCC;
+  padding: 4rem 1.5rem; }
+
+.card-2 {
+  background-color: #FFF; }
+
+#brands {
+  padding: 5rem 0; }
+
+.brands-heading {
+  text-align: center;
+  margin-bottom: 3.5rem; }
+  .brands-heading h6 {
+    color: #707070; }
+
+.wrapper-2 {
+  width: 100%;
+  height: auto; }
+
+.item-2 {
+  background-color: #ECECEC; }
+
+.owl-dots {
+  display: none; }
+
+#contact-us {
+  background-color: #F7F7F7; }
+
+.get-touch {
+  background-image: url(../../images/bg4.jpg);
+  background-repeat: no-repeat;
+  height: 33rem;
+  width: 100%;
+  color: #FFF;
+  padding: 5rem 10%; }
+
+.get-touch-heading h6 {
+  color: #FFBF00;
+  text-transform: uppercase; }
+
+.hr {
+  border-bottom: 2px solid #FFBF00;
+  width: 30%;
+  height: 0;
+  margin-bottom: 2rem;
+  margin-top: 2rem; }
+
+.info-icons {
+  color: #FFBF00;
+  font-size: 1.4rem; }
+
+.input-form {
+  background-color: #FFF;
+  width: 100%;
+  height: 100%;
+  padding: 1rem 1.3rem 0 1.3rem; }
+
+.input {
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+  padding: 30px 15px 30px 40px;
+  border: 0;
+  border-radius: 5px;
+  margin: 1rem 0;
+  background-color: #fafafa; }
+
+.btn-form {
+  border-radius: 30px;
+  padding: .8rem 1.5rem;
+  margin-top: 3rem;
+  color: #FFF; }
+
+.copyRight {
+  background: #042754;
+  color: #fff;
+  padding: 3rem 0;
+  text-align: center; }
+/*# sourceMappingURL=style.css.map */
